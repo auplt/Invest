@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Currency2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Currency2</output-path>
+    <root id="root">
+      <element id="archive" name="Currency.jar">
+        <element id="module-output" name="Currency" />
+      </element>
+    </root>
+  </artifact>
+</component>
