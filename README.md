@@ -7,4 +7,4 @@
 - You may also add new currencies
 - As a result you will be given your profit
 
-HistoryTest.csv is a file with your addiditional operations. It icludes currency, amount, purchase date
+HistoryTest.csv is a file with your addiditional operations. It icludes currency, amount and purchase date
